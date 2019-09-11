@@ -1,4 +1,4 @@
-# optionnel_2019
+# optionnel_2019 modifications !!!
 matériel pour l'enseignement optionnel des DQPRM 2017-2019
 ## Programme
 --------------------
